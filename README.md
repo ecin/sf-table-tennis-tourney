@@ -28,6 +28,7 @@ _You're not required to provide a nick name but those who don't will be supplied
 * [Fabio Kung](https://twitter.com/fabiokung) (aka **FcK**)
 * [Morten Bagai](https://twitter.com/mortenheroku)
 * [Blake Mizerany](https://twitter.com/bmizerany)
+* [Nelson Crespo](https://twitter.com/ecin) (aka **The Avalon**)
 
 ## Have a table we can use?
 
